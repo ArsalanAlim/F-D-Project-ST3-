@@ -1,0 +1,34 @@
+body{
+    background-image: url('https://i.pinimg.com/736x/55/74/54/557454f9d762c6b6c9efdaec66b4dbb9.jpg'); 
+    background-repeat: no-repeat; 
+  background-size: cover; 
+  background-attachment: fixed;
+}
+.card{
+    background-image: url('https://s3.envato.com/files/382231202/light.jpg'); 
+  
+}
+.autocomplete-list{ 
+    background-color: white; 
+    
+   top:0; 
+   left:0; 
+    border-radius: 10px; 
+    list-style-type: none; 
+ 
+    margin:0; 
+    padding:0; 
+    max-height: 100px; 
+    overflow-y: auto; 
+} 
+.auto-div{ 
+    margin-top:-16px; 
+    
+} 
+ 
+ 
+.autocomplete-list li:hover{ 
+ background:whitesmoke; 
+ cursor:default; 
+ 
+}
